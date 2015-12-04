@@ -4,5 +4,5 @@ angular.module('movieCore', ['ngResource'])
 			update: {
 				method: 'PUT'
 			}
-		})
-	})
+		});
+	});
